@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemProgramarAlarma"
+        android:title="Programar Alarma" />
+
+    <item
+        android:id="@+id/itemUltimoMensaje"
+        android:title="Último Mensaje" />
+
+    <item
+        android:id="@+id/itemVerHistorico"
+        android:title="Ver Histórico" />
+
+    <item
+        android:id="@+id/itemSalir"
+        android:title="Salir" />
+
+</menu>
